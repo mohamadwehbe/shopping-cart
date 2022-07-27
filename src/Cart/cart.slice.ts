@@ -1,5 +1,4 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { stat } from "fs";
 import { Product } from "../Products/products.slice";
 import { RootState } from "../store";
 
